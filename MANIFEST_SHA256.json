@@ -4,7 +4,7 @@
   "date": "2026-09-12",
   "artifacts": [
     {
-      "path": "00_README_JAPANESE.md",
+      "path": "00_README.md",
       "size_bytes": 4677,
       "sha256": "ed4f2409934485a3975826651398f15966e162a3d7a0f3a681500219d9830cb2"
     },
