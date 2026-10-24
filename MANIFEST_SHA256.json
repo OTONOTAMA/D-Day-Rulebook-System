@@ -1,0 +1,62 @@
+{
+  "package": "D-Day_Rulebook_Template_Baseline_v0.1",
+  "status": "RULEBOOK_TEMPLATE_BASELINE_COMPLETE__NOT_FINAL_PLAYABLE_GAME",
+  "date": "2026-09-12",
+  "artifacts": [
+    {
+      "path": "00_README_まずここを読む.md",
+      "size_bytes": 4677,
+      "sha256": "ed4f2409934485a3975826651398f15966e162a3d7a0f3a681500219d9830cb2"
+    },
+    {
+      "path": "01_AUTHORITY/D-Day_Canonical_Rule_Specification_v0.30_WORKING.md",
+      "size_bytes": 42270,
+      "sha256": "06ad3269343fea03b7c265440beb7646715e3abad8e2a5f0d4dca2684aa99b9e"
+    },
+    {
+      "path": "01_AUTHORITY/D-Day_Scenario_Canonical_Source_v0.11_WORKING.md",
+      "size_bytes": 30897,
+      "sha256": "38edb624cbda5212c1c3e95bd5ede409876ba237e702d27b7f71ce1ec66df37b"
+    },
+    {
+      "path": "02_JAPANESE_USER_FACING/D-Day_Japanese_D-Day_Scenario_Book_v0.12_WORKING.md",
+      "size_bytes": 127156,
+      "sha256": "5fd0fe1ffad1dcfb0a97c9f24a4a04a4cbda6cd4cb5198738c07923c31d2695f"
+    },
+    {
+      "path": "02_JAPANESE_USER_FACING/D-Day_Japanese_Player_Rulebook_v1.4_WORKING.md",
+      "size_bytes": 72381,
+      "sha256": "eeb56ede43969b5d90efc707ac4224d9256ba6b25369658ee6b46c6f740db0ea"
+    },
+    {
+      "path": "02_JAPANESE_USER_FACING/D-Day_Japanese_Rules_Companion_v0.5_WORKING.md",
+      "size_bytes": 93817,
+      "sha256": "8277cbef625a906ffc49bc1430e7b6703a6e9af931c2ddacf5abc292379403a6"
+    },
+    {
+      "path": "03_ENGLISH_USER_FACING/D-Day_English_D-Day_Scenario_Book_v0.3_WORKING.md",
+      "size_bytes": 86492,
+      "sha256": "87a5253b480e250d9e88a1b986e948d56c0c98e94fe3096107a8653cab7dd9b9"
+    },
+    {
+      "path": "03_ENGLISH_USER_FACING/D-Day_English_Player_Rulebook_v0.2_WORKING.md",
+      "size_bytes": 61378,
+      "sha256": "1057402ce3b26c9cb03c699fd791406c0b2da89088466f6dbd913384be7bfda6"
+    },
+    {
+      "path": "03_ENGLISH_USER_FACING/D-Day_English_Rules_Companion_v0.4_WORKING.md",
+      "size_bytes": 81610,
+      "sha256": "c9a5c164fe6a28f9e667f5678690291cb4d4b6562fcd62551f84440138783f60"
+    },
+    {
+      "path": "04_GUIDE_AND_AUDIT/D-Day_User_Facing_Documentation_Map_v0.1.md",
+      "size_bytes": 2540,
+      "sha256": "90d7b09430af0c3f86c414e5a378094ec52272010cafe131447f2d71928b5632"
+    },
+    {
+      "path": "04_GUIDE_AND_AUDIT/D-Day_User_Facing_Family_Cross_Document_Audit_v0.1.md",
+      "size_bytes": 3011,
+      "sha256": "dc6435f35be7b8e879e1b9f251fe4c5106ea8b6de3fceb3d0575212469be2b9a"
+    }
+  ]
+}
