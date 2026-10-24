@@ -21,7 +21,7 @@ It does **not** contain a playable game. Maps, order of battle (OOB), initial pl
 | B2 | `02_JAPANESE_USER_FACING/D-Day_Japanese_D-Day_Scenario_Book_v0.12_WORKING.md` | JA | D-Day scenario book — Normandy Campaign history (Overlord / Neptune through Falaise) plus what to look for in this scenario, the scenario framework, and a player guide. Human Reader UAT: PASS. |
 | B3 | `03_ENGLISH_USER_FACING/D-Day_English_D-Day_Scenario_Book_v0.3_WORKING.md` | EN | D-Day scenario book (B2-equivalent). Machine qualified; Human Reader PASS not claimed. |
 
-Supporting documents: `04_GUIDE_AND_AUDIT/` (documentation map + 6-book cross-document audit), `00_README_まずここを読む.md` (Japanese overview of the set), `MANIFEST_SHA256.json` (per-file integrity manifest).
+Supporting documents: `04_GUIDE_AND_AUDIT/` (documentation map + 6-book cross-document audit), `00_README_JAPANESE.md` (Japanese overview of the set), `MANIFEST_SHA256.json` (per-file integrity manifest).
 
 ## Authority rules
 
@@ -45,7 +45,7 @@ Supporting documents: `04_GUIDE_AND_AUDIT/` (documentation map + 6-book cross-do
 ├── README.md
 ├── LICENSE
 ├── MANIFEST_SHA256.json
-├── 00_README_まずここを読む.md
+├── 00_README_JAPANESE.md
 ├── 01_AUTHORITY/
 ├── 02_JAPANESE_USER_FACING/
 ├── 03_ENGLISH_USER_FACING/
@@ -95,7 +95,7 @@ D-Day（ノルマンディー上陸作戦）およびその後のノルマンデ
 | B2（日本語） | D-Day Scenario Book。ノルマンディー戦役の歴史解説（Overlord / Neptune から Falaise まで）+ このシナリオで何を見るべきか・シナリオフレームワーク・プレイヤーガイド。Human Reader UAT: PASS。 |
 | B3（英語） | D-Day Scenario Book（B2 相当）。Machine Qualified / Human Reader PASS 未主張。 |
 
-補助文書: `04_GUIDE_AND_AUDIT/`（文書マップ + 6 冊横断監査）、`00_README_まずここを読む.md`（日本語のセット概要）、`MANIFEST_SHA256.json`（ファイル毎の整合性 manifest）。
+補助文書: `04_GUIDE_AND_AUDIT/`（文書マップ + 6 冊横断監査）、`00_README_JAPANESE.md`（日本語のセット概要）、`MANIFEST_SHA256.json`（ファイル毎の整合性 manifest）。
 
 ## 権威規則
 
